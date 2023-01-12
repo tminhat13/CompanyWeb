@@ -8,6 +8,7 @@
 <title>New Employee</title>
 </head>
 <body>
+<h3><a href="http://localhost:8080/Home">Home</a></h3>
 <div align="center">
 	<div align="left">
 		<h2>Adding a New Employee</h2>
